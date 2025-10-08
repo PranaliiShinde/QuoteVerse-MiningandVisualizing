@@ -10,7 +10,7 @@
 
 ---
 **Tags:**  
-[NLP](#) [Text Mining](#) [Sentiment Analysis](#) [Data Visualization](#) [Python](#) [Web Scraping](#) [Machine Learning](#) [Natural Language Processing](#) [Word](#) [SQL](#) [Cloud](#) [Database](#) [Plotly](#) [Matplotlib](#) [Seaborn](#)               
+[Text Mining](#) [Sentiment Analysis](#) [Data Visualization](#) [Python](#) [Web Scraping](#) [Machine Learning](#) [Natural Language Processing](#) [Word](#) [SQL](#) [Cloud](#) [Database](#) [Plotly](#) [Matplotlib](#) [Seaborn](#)               
 
 ---
 
