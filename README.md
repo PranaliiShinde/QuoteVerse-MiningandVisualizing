@@ -39,12 +39,12 @@
 
 ## 📊 Project Workflow
 
-### 🔹 Web Scraping (by Pranali)
+### 🔹 Web Scraping (by Devesh)
 - Scraped multiple paginated pages using **Requests** and **BeautifulSoup**.  
 - Extracted **quote text**, **author names**, and **associated tags**.  
 - Exported the cleaned data to **CSV** for further processing.  
 
-### 🔹 SQL Design & Querying (by Devesh)
+### 🔹 SQL Design & Querying (by Pranali)
 - Created a **relational database schema** with tables for quotes, authors, and tags.  
 - Managed **many-to-many relationships** via a bridge table.  
 - Wrote SQL queries to identify **top authors**, **common tags**, and **quote distributions**.  
